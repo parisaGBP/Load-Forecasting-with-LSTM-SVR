@@ -87,6 +87,6 @@ SVR(degree=1, gamma=0.1)
 * RMSE: 2.301312980372443
 * MAPE: 0.007412437740864859
 
-### Predicted Test data using LSTM for 100 data
-![Untitled](https://github.com/user-attachments/assets/818690c7-8c6d-4d65-bcad-98521052144b)
+### Predicted Test data using SVR for 100 data
+![Untitled](https://github.com/user-attachments/assets/dba67c78-489a-425b-a8ee-7a581d51b1cc)
 
